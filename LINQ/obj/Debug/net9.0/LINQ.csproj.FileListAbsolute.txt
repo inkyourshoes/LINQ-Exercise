@@ -1,0 +1,15 @@
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/bin/Debug/net9.0/LINQ
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/bin/Debug/net9.0/LINQ.deps.json
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/bin/Debug/net9.0/LINQ.runtimeconfig.json
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/bin/Debug/net9.0/LINQ.dll
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/bin/Debug/net9.0/LINQ.pdb
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/obj/Debug/net9.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/obj/Debug/net9.0/LINQ.AssemblyInfoInputs.cache
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/obj/Debug/net9.0/LINQ.AssemblyInfo.cs
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/obj/Debug/net9.0/LINQ.csproj.CoreCompileInputs.cache
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/obj/Debug/net9.0/LINQ.sourcelink.json
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/obj/Debug/net9.0/LINQ.dll
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/obj/Debug/net9.0/refint/LINQ.dll
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/obj/Debug/net9.0/LINQ.pdb
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/obj/Debug/net9.0/LINQ.genruntimeconfig.cache
+/Users/inkyourshoes/repos/LINQ-Exercise/LINQ/obj/Debug/net9.0/ref/LINQ.dll
